@@ -48,7 +48,7 @@
     .foot2{
         /* flex-direction: column; */
         flex-wrap: wrap;
-        height: auto;
+/*         height: auto; */
        
     }
     .footer-main{
