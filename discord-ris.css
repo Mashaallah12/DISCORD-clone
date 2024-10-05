@@ -1,0 +1,107 @@
+@media (max-width: 1040px) {
+    .hide{
+        display: none;
+    }
+    .nav>i{
+        display: block;
+    }
+    .container2>img{
+        height: 400px;
+        width: 90%;
+    }
+    .container1{
+        height: auto;
+        width: 100%;
+    }
+    .main-section{
+        /* flex-direction: column; */
+       flex-direction: column-reverse;
+       height: auto;
+    }
+    .two-btn{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .two-btnnn1{
+        height: 60px;
+        width: 50%;
+        font-size: 20px;
+    }
+    .two-btnnn2{
+        height: 60px;
+        width: 50%; 
+        font-size: 20px;
+    }
+    .one{
+        width: 100%;
+       justify-content: flex-start;
+       height: auto;
+      
+    }
+    .fl{
+        justify-content: flex-start;
+    }
+    .icons{
+        justify-content: flex-start;
+    }
+    .foot2{
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+        height: auto;
+       
+    }
+    .footer-main{
+        height: auto;
+    }
+    .two{
+        width: 100%;
+
+    }
+    .three{
+        width: 100%;
+    }
+    .four{
+        width: 100%;
+    }
+    .five{
+        width: 100%;
+    }
+    .footer-btn{
+        width: 20%;
+    }
+}
+@media (max-width: 768px) {
+    .class0{
+        flex-direction: column-reverse;
+        height: auto;
+        width: 100%;
+        gap: 30px;
+    }
+    .content{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .img{
+        height: auto;
+        width: 90%;
+       /* padding-bottom: 50px; */
+       margin-bottom: 40px;
+       margin-top: 40px;
+    }
+    .HEAD{
+        height: auto;
+    }
+    .two-btnnn2{
+        height: 60px;
+        width: 60%; 
+        font-size: 18px;
+    }
+    .container1{
+        width: 100%;
+        padding: 0;
+    }
+    .footer-btn{
+        width: 25%;
+    }
+}
